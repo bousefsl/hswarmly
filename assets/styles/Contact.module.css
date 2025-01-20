@@ -1,0 +1,34 @@
+.here-to-help {
+	background-color:#fff; color: #333;
+	border-top:2px solid #f7a49d; border-bottom:2px solid #f7a49d; padding-top: 3rem;
+}
+
+@media (max-width:767px) {
+	.here-to-help {
+		background-image:none !important; 
+	}
+}
+
+@media (min-width:768px) {
+	.here-to-help {
+		background-size:auto 100%; background-repeat: no-repeat; background-position-x: 50px;
+	}
+}
+
+@media (min-width:820px) {
+	.here-to-help {
+		background-position-x: 100px;
+	}
+}
+
+@media (min-width:992px) {
+	.here-to-help {
+		background-position-x: 200px;
+	}
+}
+
+@media (min-width:1200px) {
+	.here-to-help {
+		background-position: right;
+	}
+}

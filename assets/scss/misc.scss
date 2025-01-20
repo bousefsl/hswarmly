@@ -1,0 +1,26 @@
+/*Miscellaneous CSS*/
+
+@media screen and (min-width: 992px) {
+    .mt-offset:nth-child(2) {margin-top: var(--warmly-teaser-margin-top-offset1);}
+    .mt-offset:nth-child(3) {margin-top: var(--warmly-teaser-margin-top-offset2);}
+    .mt-offset:nth-child(4) {margin-top: var(--warmly-teaser-margin-top-offset3);}
+}
+
+/*Link - Icon underline hack*/
+a i.icon-hs-open-in-new {
+    display: inline-block;
+    text-decoration: none;
+}
+
+.hyphenate {
+    /* Careful, this breaks the word wherever it is without a hyphen */
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+  
+    /* Adds a hyphen where the word breaks */
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+  }

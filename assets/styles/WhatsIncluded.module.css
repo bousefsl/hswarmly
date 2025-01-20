@@ -1,0 +1,14 @@
+/*Blue BG section*/
+.included {background-color:#17557b; background-repeat: no-repeat; color: #fff; padding-top: 3rem;}
+
+.inc-teaser {padding-left:3rem; margin-bottom:2rem; position: relative;}
+.inc-teaser:before {font-family: "HomeServe-Icons"; content:"\e922"; font-size:1.5rem; position:absolute; left:0; top:-4px; color:#ff8f85;}
+.inc-teaser h3, .inc-teaser .h3 {margin-bottom:0.5rem;}
+
+@media screen and (max-width:767px) {
+	.included {background-image:none !important;}
+}
+
+@media screen and (min-width:768px) {
+	.included {background-size:auto 100%; background-position: right;}
+}

@@ -1,0 +1,18 @@
+.footer-top {background-color:#fcdcd9; padding:2.5rem 1rem;}
+.logo {width:130px; margin-bottom: 0;}
+.footer-links {background-color:#17557b; padding:0.5rem 0;}
+.text-link {display: inline-flex; color:#fdd3af; margin:0.25rem 1.5rem 0.25rem 0;transition:all 0.25s ease-in-out;}
+.text-link:hover, 
+.text-link:focus {color:#fff;}
+.text-link::before {content:''; background-color:#fdd3af;}
+.text-link i {margin-top: 0.2rem; font-size: 0.9rem;}
+.text-link i:before {text-decoration: none; display: inline-block;}
+.footer-baseline {padding-top:0.75rem;}
+
+@media screen and (min-width:576px) {
+	.logo {width:160px;}
+}
+
+@media screen and (min-width:768px) {
+	.logo {width:240px;}
+}
