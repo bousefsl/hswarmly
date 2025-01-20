@@ -1,0 +1,26 @@
+{
+    "title": "How it <span class='warmly-red-text '>works...</span>",
+    "titleparagraph": "Warmly is an all-in-one Heating Plan covering the cost of your new boiler, the installation, annual servicing and repairs in one fixed monthly payment.",
+    "content": [
+        {
+            "icon": "icon-hs-register",
+            "subtitle": "Quote",
+            "paragraph": "A Warmly installer will undertake a survey of your home, either face to face, via a video call or an online survey. Either way a number of boiler options will be discussed with you on a call or presented back to you online allowing you to choose what is right for you."
+        },
+        {
+            "icon": "icon-hs-phone-iphone",
+            "subtitle": "Apply",
+            "paragraph": "Once you're happy with a boiler option and price you can apply for Warmly online via the link sent to you by email or, apply directly online via the Warmly installer website. You can also sign your documents and arrange your preferred payment date all within the online application."
+        },
+        {
+            "icon": "icon-hs-boiler",
+            "subtitle": "Install",
+            "paragraph": "Once you are happy with the installation you will start to make your monthly payments."
+        },
+        {
+            "icon": "icon-hs-smiley-face",
+            "subtitle": "Feel <span class='warmly-red-text'>Warmly</span>",
+            "paragraph": "We arrange and carry out your annual service and safety checks, so you can relax knowing your boiler is running safely and efficiently. In the unlikely event of a fault, we will repair your boiler at no extra cost."
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Frequently asked <span class='warmly-red-text'>questions...</span>",
+    "accordionID": "faqAccordion",
+    "content": [
+        {
+            "accordionTitle": "Who is Warmly for?",
+            "accordionParagraph": "<p>Warmly is available on Worcester Bosch gas boiler installations for <strong>eligible domestic homeowners and landlords</strong> who:</p><ul><li>Need a new boiler but don't want to pay the cost up front, or</li><li>Have an <strong>old, inefficient boiler that's costing more</strong> than necessary in repairs and energy bills, or</li><li>Would like the security of long-term boiler servicing, safety checks and repairs, with no excess in one monthly fixed cost.</li></ul>",
+            "accordionCollapseState": ""
+        },
+        {
+            "accordionTitle": "Will I own the boiler?",
+            "accordionParagraph": "<p>You <strong>rent the boiler and equipment during the term of the agreement</strong> and then ownership of the boiler is transferred to you at the end of the agreement. This means you will <strong>own the boiler once your last payment has been made</strong>.</p>",
+            "accordionCollapseState": ""
+        },
+        {
+            "accordionTitle": "How long is the plan term?",
+            "accordionParagraph": "<p>Our current plans have a <strong>duration of 10 years</strong> to help spread the cost and work alongside your 10 year warranty or guarantee.</p>",
+            "accordionCollapseState": ""
+        },
+        {
+            "accordionTitle": "Can I end the plan early?",
+            "accordionParagraph": "<p>Yes, <strong>you can pay the agreement off early</strong> at any point and take full ownership of the boiler. A specific early repayment figure can be provided by Warmly.</p>",
+            "accordionCollapseState": ""
+        },
+        {
+            "accordionTitle": "What happens if I sell my home?",
+            "accordionParagraph": "<p>If you sell your home simply end the Warmly plan early prior to your home sale.</p>",
+            "accordionCollapseState": ""
+        },
+        {
+            "accordionTitle": "I am a landlord - does the annual service include a Gas Safety Certificate?",
+            "accordionParagraph": "<p>Yes, for landlords, the plan includes a Gas Safety Certificate as well as a boiler service.</p>",
+            "accordionCollapseState": ""
+        }
+    ]
+}

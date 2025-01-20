@@ -1,0 +1,20 @@
+{
+    "content": [
+        {
+            "footerlink": "/regulatory",
+            "footerlinktext": "Regulatory"
+        },
+        {
+            "footerlink": "/privacy-policy",
+            "footerlinktext": "Privacy Policy"
+        },
+        {
+            "footerlink": "/terms-conditions",
+            "footerlinktext": "Terms & Conditions"
+        },
+        {
+            "footerlink": "/contact-us",
+            "footerlinktext": "Contact Us"
+        }
+    ]
+}

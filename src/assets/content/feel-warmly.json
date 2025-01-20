@@ -1,0 +1,25 @@
+{
+    "title": "<span class='warmly-red-text'>Feel Warmly</span> all over...",
+    "content": [
+        {
+            "image": "/images/piggy-bank.svg",
+            "subtitle": "Save money",
+            "paragraph": "All our boilers are super efficient, A-rated and from leading brands, helping you <strong>reduce your energy consumption</strong>, carbon footprint and could save you up to £39.58 a month (£475 a year) on your energy bills*."
+        },
+        {
+            "image": "/images/clipboard.svg",
+            "subtitle": "Local experts",
+            "paragraph": "Our systems are <strong>installed and maintained by our experts</strong> in your local area. No need to make lots of phone calls or meet sub-contractors you don't know."
+        },
+        {
+            "image": "/images/warning.svg",
+            "subtitle": "No surprises",
+            "paragraph": "Your Warmly plan includes the cost of servicing your boiler, safety checks and any boiler equipment repairs with <strong>no excess to pay</strong>. It's flexible too, with the option to opt out and buy your boiler at any point."
+        },
+        {
+            "image": "/images/boiler.svg",
+            "subtitle": "Quality care",
+            "paragraph": "Warmly only works with <strong>trusted Gas Safe registered engineers</strong>, so you can relax knowing the installation and servicing of your boiler is in expert hands."
+        }
+    ]
+}
