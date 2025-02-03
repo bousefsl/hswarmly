@@ -1,0 +1,14 @@
+/*ACCORDION*/
+.accordion {
+    & .accordion-button {
+        font-family: var(--font-hs-family-extrathick-stack); color: var(--warmly-navy); 
+
+        &::after {
+            background-image: var(--warmly-accordion-btn-icon); background-size: var(--warmly-accordion-btn-icon-width);
+        }
+
+        &:not(.collapsed) {
+            background-color: var(--warmly-accordion-active-bg);
+        }
+    }
+}

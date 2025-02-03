@@ -1,0 +1,7 @@
+.logo {
+    text-align: left; margin-top: 1rem; margin-bottom: 1rem;
+
+    & img {
+        width: 180px;
+    }
+}
